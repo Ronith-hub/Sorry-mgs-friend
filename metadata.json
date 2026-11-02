@@ -1,0 +1,6 @@
+{
+  "name": "I Am Sorry - 3D Best Friend Apology",
+  "description": "An interactive 3D animated apology featuring a pulsing Three.js extruded heart, CSS2DObject message overlay, and heartfelt friendship dedication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
